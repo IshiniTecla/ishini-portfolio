@@ -142,8 +142,6 @@ const Skill = styled.div`
     }
 `
 
-
-
 const ExperienceCard = ({ experience }) => {
     return (
         <Card>
@@ -156,31 +154,29 @@ const ExperienceCard = ({ experience }) => {
                 </Body>
             </Top>
             <Description>
-                {experience?.desc &&
-                    <Span>{experience?.desc}</Span>
-
-                }
-                {experience?.skills &&
+                {experience?.desc && <Span>{experience?.desc}</Span>}
+                {experience?.skills && (
                     <>
                         <br />
                         <Skills>
                             <b>Skills:</b>
                             <ItemWrapper>
                                 {experience?.skills?.map((skill, index) => (
-                                    <Skill>• {skill}</Skill>
+                                    <Skill key={index}>• {skill}</Skill>
                                 ))}
                             </ItemWrapper>
                         </Skills>
                     </>
-                }
+                )}
             </Description>
-            {experience.doc &&
+            {experience.doc && (
                 <a href={experience.doc} target="new">
                     <Document src={experience.doc} />
                 </a>
-            }
+            )}
         </Card>
-    )
-}
+    );
+};
 
-export default ExperienceCard
+export default ExperienceCard;
+
