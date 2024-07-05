@@ -8,10 +8,10 @@ export const Bio = {
     ],
     description:"I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/IshiniTecla/IshiniTecla",
-    resume:"",
+    resume:"https://drive.google.com/file/d/1jXPfItysWQv4SK05d2JJUd8CN8B35uy3/view",
     linkedin: "https://www.linkedin.com/in/ishini-tecla-5b7307224/",
     twitter: "",
-    insta: "",
+    insta: "https://www.instagram.com/ishini_tecla/",
     facebook: "",
   };
   
@@ -245,50 +245,6 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/naveennuwantha/go_agro",
       webapp: "",
-      member: [
-        {
-          name: "Ishini Tecla",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Yasindu Pasanjith",
-          img: "https://avatars.githubusercontent.com/u/128167079?v=4",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Kaveesha Nethmi",
-          img: "https://avatars.githubusercontent.com/u/127975268?v=4",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Naveen Nuwantha",
-          img: "https://avatars.githubusercontent.com/u/88400251?v=4",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Fathima Zumra",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Hasandara Sandamini",
-          img: "https://avatars.githubusercontent.com/u/154656779?v=4",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Crishan Aloka",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-      ],
     },
     {
       id: 2,
@@ -300,32 +256,6 @@ export const Bio = {
       category: "web app",
       github: "",
       webapp: "",
-      member: [
-      {
-        name: "Ishini Tecla",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "Rachitha Tharana",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "Geethadi Wijayarathna",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
-      {
-        name: "Kavinda Kurukulasooriya",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
-    ],
     },
   
     {
@@ -334,49 +264,10 @@ export const Bio = {
       date: "Feb 2023 - May 2023",
       description:"Designed and developed the web application to book and purchase lands, houses, an important app that helps users to buy their dream property.",
       image:"",
-      tags: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "PHP",
-        "Sql",
-      ],
+      tags: ["HTML","CSS","Javascript","PHP","Sql"],
       category: "web app",
       github: "",
       webapp: "",
-      member: [
-        {
-          name: "Ishini Tecla",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Sandun Ranjana",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Gihanthi Shamika",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Subodhi Vithana",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-        {
-          name: "Sudeepa Rathnayake",
-          img: "",
-          linkedin: "",
-          github: "",
-        },
-
-      ],
     },
     
     {
