@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ishini-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/ishini-portfolio/static/js/main.0f50f831.js",
+    "main.js": "/ishini-portfolio/static/js/main.b3d880f0.js",
     "static/media/HeroImage.jpeg": "/ishini-portfolio/static/media/HeroImage.d83ddaa39d7ef5b79040.jpeg",
     "index.html": "/ishini-portfolio/index.html",
     "main.bf538fe7.css.map": "/ishini-portfolio/static/css/main.bf538fe7.css.map",
-    "main.0f50f831.js.map": "/ishini-portfolio/static/js/main.0f50f831.js.map"
+    "main.b3d880f0.js.map": "/ishini-portfolio/static/js/main.b3d880f0.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.0f50f831.js"
+    "static/js/main.b3d880f0.js"
   ]
 }
