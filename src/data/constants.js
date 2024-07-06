@@ -203,7 +203,7 @@ export const Bio = {
       img: "https://w7.pngwing.com/pngs/614/800/png-transparent-fiverr-hd-logo.png",
       company: "Fiverr",
       date: "Jun 2023 - Present",
-      desc: "",
+      desc: "I'm a versatile freelancer offering top-notch services in programming, web development, designing, and video editing. From building robust software and creating responsive websites to delivering stunning graphics and polished videos, I ensure high-quality results tailored to clients needs.",
       
     },
     {
@@ -211,8 +211,9 @@ export const Bio = {
       img: "https://static.vecteezy.com/system/resources/previews/042/127/177/non_2x/rounded-square-red-color-youtube-logo-with-thick-white-border-and-shadow-on-a-transparent-background-free-png.png",
       role: "Content Creater",
       company: "YouTube",
+      link:"http://www.youtube.com/@PROCODEitofficial",
       date: "Apr 2021 - Present",
-      desc: "",
+      desc: "As a YouTube content creator, I produce engaging and informative videos that captivate audiences and deliver value. From tech tutorials and web development guides to design tips and video editing techniques, my content is crafted to educate and inspire. Join me on YouTube for high-quality, impactful content that enhances your skills and knowledge.",
       
     }, 
     
@@ -309,7 +310,7 @@ export const Bio = {
       image:"https://cdn.dribbble.com/userupload/4084515/file/original-9b1e85051e7cca60bedc4b6c6ed147ac.png?resize=400x0",
       tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
       category: "android app",
-      github: "",
+      github: "https://github.com/IshiniTecla/Note-App",
       webapp: "",
     },
     {
