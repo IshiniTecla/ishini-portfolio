@@ -1,6 +1,7 @@
 export const Bio = {
     name: "Ishini Tecla",
     roles: [
+      "Software Engineer",
       "Full Stack Developer",
       "Android Developer",
       "UI/UX Designer",
@@ -185,15 +186,8 @@ export const Bio = {
       role: "Frontend Developer",
       company: "Yokohama National University, Japan",
       date: "Aug 2023 - July 2023",
-      desc: "Designing the frontend of the web application for Typhoon Detection System(Research Website)",
-      skills: [
-        "HTML5",
-        "CSS",
-        "Javascript",
-        "React js",
-        "Node js",
-        " Next Js",
-      ],
+      desc: "Designing the frontend of the web application for Typhoon Detection System(Research Website)"
+    
     },
     {
       id: 1,
@@ -201,9 +195,28 @@ export const Bio = {
       role: "Open Source Contributor ",
       company: "Google Summer of Code",
       date: "Apr 2024 - Present",
-      desc: "Contributing to different open-source projects and learn from industry experts",
+      desc: "Contributing to different open-source projects and learn from industry experts.",
       
     },
+    {
+      id: 2,
+      img: "https://w7.pngwing.com/pngs/614/800/png-transparent-fiverr-hd-logo.png",
+      company: "Fiverr",
+      date: "Jun 2023 - Present",
+      desc: "",
+      
+    },
+    {
+      id: 3,
+      img: "https://static.vecteezy.com/system/resources/previews/042/127/177/non_2x/rounded-square-red-color-youtube-logo-with-thick-white-border-and-shadow-on-a-transparent-background-free-png.png",
+      role: "Content Creater",
+      company: "YouTube",
+      date: "Apr 2021 - Present",
+      desc: "",
+      
+    },
+    
+    
     
   ];
   
@@ -218,6 +231,14 @@ export const Bio = {
     },
     {
       id: 1,
+      img: "https://upload.wikimedia.org/wikipedia/commons/7/74/Logo_color.png",
+      school: "University Of Colombo",
+      date: "Jul 2024 - Jul 2025",
+      desc: "I am currently studying a higher diploma in Human Resource Management at Faculty of Management and Finance, University of Colombo. ",
+      degree: "Diploma in Human Resource Management",
+    },
+    {
+      id: 2,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK-cGZCKEbwjT4QUxwMDYt5pPSmE3BqAqgQ&s",
       school: "Kegalu Balika Vidyalaya",
       date: "May 2019 - Aug 2021",
@@ -225,7 +246,7 @@ export const Bio = {
       degree: "GCE Advanced Level",
     },
     {
-      id: 2,
+      id: 3,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpK-cGZCKEbwjT4QUxwMDYt5pPSmE3BqAqgQ&s",
       school: "Kegalu Balika Vidyalaya",
       date: "Jan 2013 - Dec 2018",
@@ -240,7 +261,7 @@ export const Bio = {
       title: "Go Agro",
       date: "Feb 2024 - May 2024",
       description:"'Go Agro' is a web application designed to streamline paddy sales management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
-      image:"",
+      image:"https://goagro.com.pk/wp-content/uploads/2023/04/logo.png",
       tags: ["React js", "AWS", "Mongo Db", "Eslint", "Express js", "Node Js", "Express Js", "Javascript", "HTML", "CSS"],
       category: "web app",
       github: "https://github.com/naveennuwantha/go_agro",
@@ -251,19 +272,19 @@ export const Bio = {
       title: "My Planner",
       date: "Sep 2023 - Oct 2023",
       description:"Developed a Java based web application using MVC architecture that allows users to plan thier special life events. Practiced agile methodologies to optimize team efficiency and communication.",
-      image:"",
+      image:"https://images.squarespace-cdn.com/content/v1/6430f370d36eb8245378ae01/da55f2b6-2d51-4930-aa9c-c890ca63df2c/25.png",
       tags: ["Java", "Javascript", "HTML", "CSS", "My Sql"],
       category: "web app",
-      github: "",
+      github: "https://github.com/IshiniTecla/Event-Management-System",
       webapp: "",
     },
   
     {
       id: 3,
-      title: "Lanka Lands",
+      title: "Home Lands",
       date: "Feb 2023 - May 2023",
       description:"Designed and developed the web application to book and purchase lands, houses, an important app that helps users to buy their dream property.",
-      image:"",
+      image:"https://www.weblankan.com/wp-content/uploads/2022/09/website-developer-12.png",
       tags: ["HTML","CSS","Javascript","PHP","Sql"],
       category: "web app",
       github: "",
@@ -276,32 +297,32 @@ export const Bio = {
       date: "Apr 2024 - Apr 2024",
       description:
         "A mobile gaming App made with kotlin.",
-      image:"",
+      image:"https://media.licdn.com/dms/image/D5612AQF084-3idW3hA/article-cover_image-shrink_720_1280/0/1690178715382?e=2147483647&v=beta&t=9Y9kvbg4lrv86jFQajMenc9tpiEi1SEBLcBKHeI89bM",
       tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
       category: "android app",
-      github: "https://github.com/rishavchanda/Buckoid-Android-App",
-      webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+      github: "https://github.com/IshiniTecla/Car-Game",
+      webapp: "",
     },
     {
       id: 5,
       title: "Task Collab",
       date: "May 2023 - May 2023",
       description:"A Note App made with Kotlin. Users can add their important day to daya notes and if they want they can update and delete the notes",
-      image:"",
+      image:"https://cdn.dribbble.com/userupload/4084515/file/original-9b1e85051e7cca60bedc4b6c6ed147ac.png?resize=400x0",
       tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
       category: "android app",
-      github: "https://github.com/rishavchanda/Job-finder-App",
-      webapp: "https://github.com/rishavchanda/Job-finder-App",
+      github: "",
+      webapp: "",
     },
     {
       id: 6,
       title: "Todo App",
       date: "Jun 2024",
       description:" A Todo Web App made with Kotlin, MVVM, Room Database. Users can manage their daily tasks by creating tasks lists. They can view all the tasks and can update existing tasks or delete if they finish the tasks. The date is shown in the task when they add a task. It has a search, sort and filter function.",
-      image:"",
+      image:"https://hive.com/wp-content/uploads/2022/06/to-do-list.jpg",
       tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
       category: "android app",
-      github: "",
+      github: "https://github.com/IshiniTecla/ToDo-App",
       webapp: "",
     },
     
